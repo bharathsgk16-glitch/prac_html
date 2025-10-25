@@ -1,0 +1,21 @@
+body{
+    background-color: lightblue;
+}
+header{
+    color:red;
+    text-decoration: underline;
+    text-align: center;
+}
+h1{
+    color:red;
+    text-decoration: underline;
+    text-align: center;
+}
+p{
+    font-size: 18px;
+    line-height: 1.5;
+}
+highlight{
+    background-color: black;
+    color: yellow;
+}

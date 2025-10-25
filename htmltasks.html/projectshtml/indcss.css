@@ -1,0 +1,24 @@
+*{
+margin: 0;
+}
+body{
+    color:#333 ;
+    background-color:  #f9f9f9;
+}
+.navbar ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+
+}
+.navbar {
+  background: #222;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+}
+.navbar a:hover{
+
+}
